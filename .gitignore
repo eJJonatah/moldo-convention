@@ -1,0 +1,14 @@
+# vscode ide user-specific configuration cached files
+# compilation output artefacts directories
+# compilation intermidiate content directory
+# vsstudio ide user-specific cached files
+
+.vscode
+bin
+obj
+.vs
+
+*/**/bin
+*/**/obj
+*/**/.vs
+*/**/*.user*
